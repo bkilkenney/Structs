@@ -1,0 +1,6 @@
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\Structs\Structs\obj\Debug\Structs.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\Structs\Structs\obj\Debug\Structs.pdb

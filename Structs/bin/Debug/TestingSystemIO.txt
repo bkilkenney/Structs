@@ -1,0 +1,2 @@
+Here is my string that I'm going to write to a .txt file in this solution.
+You can find it in the bin > debug folder.
